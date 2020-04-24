@@ -1,5 +1,5 @@
 # TrelloExport
-This script pulls information from Trello cards using the Trello.com API, formats it into aspreadsheet and emails that to management, updating Trello for the next workday.
+This script pulls information from Trello cards using the Trello.com API, formats it into a spreadsheet and emails that to management, updating Trello for the next workday.
 
 ## Trello
 In some companies, Trello is used to manage day-to-day tasks between departments. In Trello, each task is represented by a Trello 'card'. Each card is organized into lists relating to their current status. Everything is contained in a Trello board. A user of the board is called a'member', and each member can create, move, and modify cards amongst the lists. An example of lists for a board are:
